@@ -1,9 +1,9 @@
 # proj02_calculadora_cientifica
 
-<h1 # Projeto Calculadora Python> </h1>
+<h1> # Projeto Calculadora Python </h1>
 Este é um projeto simples de calculadora desenvolvido em Python como um exercício prático de programação. O objetivo é demonstrar os conceitos básicos de funções, entrada e saída de dados, estruturas condicionais e tratamento de erros.
 
-<h2 Funcionalidades Atuais> </h2>
+<h2> Funcionalidades Atuais </h2>
 
 A calculadora atualmente suporta as seguintes operações matemáticas:
 
@@ -21,7 +21,7 @@ O programa também inclui:
 Validação de entrada: Verifica se os números inseridos pelo usuário são válidos.
 Tratamento de erros: Utiliza try e except para lidar com erros como entrada inválida e divisão por zero, fornecendo mensagens informativas ao usuário.
 
-<h2 Estrutura do Código> </h2>
+<h2> Estrutura do Código </h2>
 
 O projeto está organizado em um único arquivo Python (calculadora_completa.py ou similar), que contém as seguintes partes principais:
 
@@ -32,7 +32,7 @@ Seleção da Operação: Estruturas condicionais (if/elif/else) para chamar a fu
 Tratamento de Erros: Blocos try/except para lidar com possíveis erros durante a conversão da entrada para números e durante a divisão por zero.
 Saída do Resultado: Exibição do resultado da operação ou mensagens de erro.
 
-<h1 Próximos Passos (Sugestões para Melhorias)> </h1>
+<h1> Próximos Passos (Sugestões para Melhorias) </h1>
 
 Este projeto pode ser expandido com mais funcionalidades, como:
 
@@ -42,10 +42,10 @@ Mais Funções Matemáticas: Adicionar suporte para outras operações (por exem
 Tratamento de Entradas Complexas: Permitir que o usuário insira expressões matemáticas completas (por exemplo, "2 + 3 * 4").
 Testes Unitários: Escrever testes automatizados para garantir a correção das funções.
 
-<h1 Contribuição> </h1>
+<h1> Contribuição </h1>
 
 Contribuições para este projeto são bem-vindas! Se você tiver sugestões de melhorias ou correções de bugs, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
-<h1 Autor: Bruno Radiuk> </h1>h1
+<h1> Autor: Bruno Radiuk </h1>
 
 Este código foi desenvolvido como um exercício de aprendizado em Python.
