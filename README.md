@@ -1,6 +1,6 @@
 # proj02_calculadora_cientifica
 
-<h1> # Projeto Calculadora Python </h1>
+<h1> Projeto Calculadora Python </h1>
 Este é um projeto simples de calculadora desenvolvido em Python como um exercício prático de programação. O objetivo é demonstrar os conceitos básicos de funções, entrada e saída de dados, estruturas condicionais e tratamento de erros.
 
 <h2> Funcionalidades Atuais </h2>
